@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4BC858FC135C986A000998D3 /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 4BC858FB135C986A000998D3 /* README.markdown */; };
 		4BD3778D135C55B300280941 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BD3778C135C55B300280941 /* Cocoa.framework */; };
 		4BD37797135C55B400280941 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4BD37795135C55B400280941 /* InfoPlist.strings */; };
 		4BD3779A135C55B400280941 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BD37799135C55B400280941 /* main.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4BC858FB135C986A000998D3 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
 		4BD37788135C55B300280941 /* CocoaBindings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CocoaBindings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BD3778C135C55B300280941 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		4BD3778F135C55B300280941 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -92,6 +94,7 @@
 				4BD3779F135C55B400280941 /* CocoaBindingsAppDelegate.m */,
 				4BD377A1135C55B400280941 /* MainMenu.xib */,
 				4BD37793135C55B400280941 /* Supporting Files */,
+				4BC858FB135C986A000998D3 /* README.markdown */,
 			);
 			path = CocoaBindings;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			files = (
 				4BD37797135C55B400280941 /* InfoPlist.strings in Resources */,
 				4BD377A3135C55B400280941 /* MainMenu.xib in Resources */,
+				4BC858FC135C986A000998D3 /* README.markdown in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +298,7 @@
 				4BD377A8135C55B400280941 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

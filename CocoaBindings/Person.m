@@ -1,9 +1,8 @@
 //
-//  FFPerson.m
+//  Person.m
 //  CocoaBindings
 //
 //  Created by Sascha Wessel on 18.04.11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
 #import "Person.h"
